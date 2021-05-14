@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcb15bd7-9d2f-4556-afd8-77cee07db148" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d3ead2f8-5348-4f63-b89d-0f18a8b0aa52" />
+  <component name="ProjectId" id="1rWGTRCOeIPNcqDM0H5ny5HmzQq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main_cls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgcnn.pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_cls.py" />
+      <option name="PARAMETERS" value="--exp_name=cls_1024 --num_points=1024 --k=20" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_cls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcb15bd7-9d2f-4556-afd8-77cee07db148" name="Default Changelist" comment="" />
+      <created>1619084454496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619084454496</updated>
+      <workItem from="1619084463809" duration="4231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619089344133">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="552" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1619089344133" />
+    <state width="1427" height="466" key="DebuggerActiveHint" timestamp="1619141117485">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1427" height="466" key="DebuggerActiveHint/2560.209.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1619141117485" />
+    <state x="877" y="352" key="FileChooserDialogImpl" timestamp="1619084765526">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="877" y="352" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1619084765526" />
+    <state width="1988" height="395" key="GridCell.Tab.0.bottom" timestamp="1620898309707">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1988" height="395" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1620898309707" />
+    <state width="2004" height="333" key="GridCell.Tab.0.bottom/2560.209.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1619140945083" />
+    <state width="1988" height="395" key="GridCell.Tab.0.center" timestamp="1620898309707">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1988" height="395" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1620898309707" />
+    <state width="2004" height="333" key="GridCell.Tab.0.center/2560.209.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1619140945083" />
+    <state width="1988" height="395" key="GridCell.Tab.0.left" timestamp="1620898309707">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1988" height="395" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1620898309707" />
+    <state width="2004" height="333" key="GridCell.Tab.0.left/2560.209.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1619140945083" />
+    <state width="1988" height="395" key="GridCell.Tab.0.right" timestamp="1620898309707">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1988" height="395" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1620898309707" />
+    <state width="2004" height="333" key="GridCell.Tab.0.right/2560.209.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1619140945083" />
+    <state x="599" y="242" key="SettingsEditor" timestamp="1619084768607">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="599" y="242" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1619084768607" />
+    <state x="892" y="482" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1619084766630">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="892" y="482" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.2194.1194@0.0.2194.1194" timestamp="1619084766630" />
+    <state x="988" y="328" key="ftp.server.browser" timestamp="1619084761798">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="988" y="328" key="ftp.server.browser/0.0.2194.1194@0.0.2194.1194" timestamp="1619084761798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dgcnn_pytorch$main_cls.coverage" NAME="main_cls Coverage Results" MODIFIED="1619140945054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
